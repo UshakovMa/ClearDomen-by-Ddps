@@ -1,0 +1,6 @@
+C:\Users\Ушаков\source\repos\ClearDomen by Ddps\ClearDomen by Ddps\bin\Debug\ClearDomen by Ddps.exe
+C:\Users\Ушаков\source\repos\ClearDomen by Ddps\ClearDomen by Ddps\bin\Debug\ClearDomen by Ddps.pdb
+C:\Users\Ушаков\source\repos\ClearDomen by Ddps\ClearDomen by Ddps\obj\Debug\ClearDomen by Ddps.csprojAssemblyReference.cache
+C:\Users\Ушаков\source\repos\ClearDomen by Ddps\ClearDomen by Ddps\obj\Debug\ClearDomen by Ddps.csproj.CoreCompileInputs.cache
+C:\Users\Ушаков\source\repos\ClearDomen by Ddps\ClearDomen by Ddps\obj\Debug\ClearDomen by Ddps.exe
+C:\Users\Ушаков\source\repos\ClearDomen by Ddps\ClearDomen by Ddps\obj\Debug\ClearDomen by Ddps.pdb
